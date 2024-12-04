@@ -38,3 +38,13 @@ Message queues are essential for:
 
 ## Errors Encountered
 **Access Restrictions**: The default `guest` user could only log in from `localhost`, which required creating a new user with appropriate permissions for remote access.
+
+## Key Differences Between RabbitMQ and Redis as Message Queues
+
+| Feature                | RabbitMQ                                   | Redis                                        |
+|------------------------|--------------------------------------------|----------------------------------------------|
+| Message Protocol       | AMQP (Advanced Message Queuing Protocol)  | Pub/Sub model                                |
+| Durability              | Supports durable messages                   | Messages can be persisted but not natively durable |
+| Message Acknowledgment | Supports acknowledgment of message receipt | No built-in acknowledgment mechanism         |
+| Complexity             | More complex with various features         | Simpler design, easier to set up            |
+| Use Cases              | Ideal for complex routing and messaging    | Best for fast caching and simple pub/sub    |
