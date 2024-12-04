@@ -7,7 +7,7 @@
 
 ## What is RabbitMQ?
 
-** RabbitMQ is an open-source message broker** that facilitates communication between different components of distributed systems through messaging. It allows applications to send messages to one another asynchronously, enabling decoupled architecture and improved scalability.
+**RabbitMQ is an open-source message broker** that facilitates communication between different components of distributed systems through messaging. It allows applications to send messages to one another asynchronously, enabling decoupled architecture and improved scalability.
 
 ## Why Use Message Queues?
 Message queues are essential for:
@@ -29,3 +29,12 @@ Message queues are essential for:
 
 4. Queue Lists
 ![RabbitMQ-queue Output](https://github.com/prath-void/devops-sre-challenge/blob/master/8-RabbitMQ/Screenshot%20from%202024-12-05%2000-45-55.png?raw=true)
+
+## Key Learnings
+- **Understanding RabbitMQ**: Gained insights into how RabbitMQ functions as a message broker.
+- **Importance of Message Queues**: Learned why message queues are crucial for modern application architectures.
+- **Installation Process**: Acquired skills in installing and configuring RabbitMQ on an EC2 instance.
+- **User Management**: Created users and set permissions for secure access to the management interface.
+
+## Errors Encountered
+**Access Restrictions**: The default `guest` user could only log in from `localhost`, which required creating a new user with appropriate permissions for remote access.
