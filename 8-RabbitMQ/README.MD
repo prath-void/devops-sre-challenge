@@ -19,5 +19,5 @@ Message queues are essential for:
 - **Reliability**: They ensure that messages are delivered even if the receiving application is temporarily unavailable.  
  
 ## Output Screenshot 
-
+1.
 ![ex1.1 Output](?raw=true)
