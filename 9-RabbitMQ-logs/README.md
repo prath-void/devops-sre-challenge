@@ -1,7 +1,7 @@
 # Day 9 Challenge - RabbitMQ Logging System Enhancement
 
 ## Overview
-Day 9's challenge continues from Day 8, enhancing the distributed logging system using RabbitMQ. In this phase, we will implement additional features such as improved log formatting and error handling in both the log producer and consumer scripts.
+Day 9's challenge continues from Day 8, enhancing the distributed logging system using RabbitMQ. In this phase, we have to implement additional features such as improved log formatting and implement a log producer and consumer system using RabbitMQ.
 
  
 ## Output Screenshot 
