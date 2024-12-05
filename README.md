@@ -4,7 +4,7 @@ Welcome to the **DevOps/SRE Daily Challenge** organized by **Sagar Utekar**! Thi
 ## Daily Progress and GitHub Links
 Below are the links to each day's GitHub folder where you can find the code, documentation, and notes for each task:  
 
-- **Day 8**: [Day 8](https://github.com/prath-void/devops-sre-challenge/tree/master/8-RabbitMQ)
+- **[Day 8]**(https://github.com/prath-void/devops-sre-challenge/tree/master/8-RabbitMQ)
 - **Day 9**: [Day 9](https://github.com/prath-void/devops-sre-challenge/tree/master/9-RabbitMQ-logs)
 
 For any questions or further information, feel free to reach out!
