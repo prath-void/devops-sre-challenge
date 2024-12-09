@@ -7,7 +7,7 @@
  
 ## What is Docker?
 
-Docker is an open platform that helps developers and DevOps teams build, ship, and run applications in isolated environments called containers. It simplifies software development, deployment, and scalability by packaging applications with all dependencies needed to run consistently across various environments.
+Docker is an open platform that helps developers and DevOps teams to build, ship, and run applications in isolated environments called containers. It simplifies software development, deployment, and scalability by packaging applications with all dependencies needed to run consistently across various environments.
 
 ## Why Do We Need Docker?
 - **Consistency:** It eliminates the "works on my machine" problem by ensuring the application behaves the same everywhere.
