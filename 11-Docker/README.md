@@ -26,7 +26,7 @@ Docker is an open platform that helps developers and DevOps teams build, ship, a
 ![docker-ps Output](https://github.com/prath-void/devops-sre-challenge/blob/master/11-Docker/docker-ps.png?raw=true)
 
 2. Custom Docker Image
-![custom-docker-image Output](https://github.com/prath-void/devops-sre-challenge/blob/master/11-Docker/custom-docker-nginx.png?raw=true)
+![docker-image Output](https://github.com/prath-void/devops-sre-challenge/blob/master/11-Docker/custom-docker-nginx.png?raw=true)
 
 3. Docker logs Snapshot
 ![docker-logs Output](https://github.com/prath-void/devops-sre-challenge/blob/master/11-Docker/docker-logs-nginx.png?raw=true)
@@ -43,4 +43,4 @@ Docker is an open platform that helps developers and DevOps teams build, ship, a
 ```bash
   docker build -t my-custom-image:latest .
 ```
- - Missed the dot ('.') at the end that specifies the current directory is the build context.
+  Missed the dot ('.') at the end that specifies the current directory is the build context.
