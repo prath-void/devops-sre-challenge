@@ -15,7 +15,7 @@
 - **Efficiency:** Lightweight compared to virtual machines, as containers share the host OS kernel.
 - **Scalability:** Easily scale containerized apps to handle increased demand.
 
-##Core Docker Concepts
+## Core Docker Concepts
 - **Docker Images:** A lightweight, standalone, and executable software package that includes everything needed to run a piece of software.
 - **Docker Containers:** Instances of Docker images that run as isolated processes on a host machine.
 - **Dockerfile:** A text file containing instructions to build a Docker image.
@@ -32,7 +32,7 @@
 ![docker-logs Output](https://github.com/prath-void/devops-sre-challenge/blob/master/11-Docker/docker-logs-nginx.png?raw=true)
 
 ## Key Learnings
-- ** Understanding Docker**: Docker is a platform that enables developers to automate the deployment of applications inside lightweight, portable containers. Containers package an application and its dependencies together, ensuring consistency across different environments.
+- **Understanding Docker**: Docker is a platform that enables developers to automate the deployment of applications inside lightweight, portable containers. Containers package an application and its dependencies together, ensuring consistency across different environments.
 - **Dockerfile**: A Dockerfile is a text file containing a series of instructions on how to build a Docker image. It defines the base image, application code, dependencies, and configurations needed to run the application.
 - **Building an Image**: Use the `docker build` command to create an image from a Dockerfile. The command typically looks like this:
   ```bash
@@ -42,4 +42,5 @@
 - **Build Context Errors**: 
 ```bash
   docker build -t my-custom-image:latest .
+'''
  - Missed the dot (.) at the end specifies that the current directory is the build context.
