@@ -3,8 +3,8 @@
 ## Overview
 
 - This challenge is about installation and configuration of Docker Image as part of the  of DevOps/SRE Challenge by Sagar Utekar.
-- It includes Building a customized Image and Dockerfile, the installation process, errors encountered, and key learnings.
-
+- It includes Building a customized Image and Dockerfile,key learnings, and errors encountered.
+ 
 ## What is Docker?
 
 Docker is an open platform that helps developers and DevOps teams build, ship, and run applications in isolated environments called containers. It simplifies software development, deployment, and scalability by packaging applications with all dependencies needed to run consistently across various environments.
