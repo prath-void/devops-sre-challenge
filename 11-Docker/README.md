@@ -25,11 +25,11 @@ Docker is an open platform that helps developers and DevOps teams build, ship, a
 1. Running Docker Containers
 ![docker-ps Output](https://github.com/prath-void/devops-sre-challenge/blob/master/11-Docker/docker-ps.png?raw=true)
 
-2. Custom Docker Image
-![docker-image Output](https://github.com/prath-void/devops-sre-challenge/blob/master/11-Docker/custom-docker-nginx.png?raw=true)
-
-3. Docker logs Snapshot
+2. Docker logs Snapshot
 ![docker-logs Output](https://github.com/prath-void/devops-sre-challenge/blob/master/11-Docker/docker-logs-nginx.png?raw=true)
+
+3. Custom Docker Image
+![docker-image Output](https://github.com/prath-void/devops-sre-challenge/blob/master/11-Docker/custom-docker-nginx.png?raw=true)
 
 ## Key Learnings
 - **Understanding Docker**: Docker is a platform that enables developers to automate the deployment of applications inside lightweight, portable containers. Containers package an application and its dependencies together, ensuring consistency across different environments.
