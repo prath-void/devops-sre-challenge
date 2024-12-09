@@ -2,7 +2,7 @@
 
 ## Overview
 
-- This challenge is about installation and configuration of Docker Image as part of the Day 11 challenge of DevOps/SRE Challenge by Sagar Utekar.
+- This challenge is about installation and configuration of Docker Image as part of the  of DevOps/SRE Challenge by Sagar Utekar.
 - It includes Building a customized Image and Dockerfile, the installation process, errors encountered, and key learnings.
 
 ## What is Docker?
