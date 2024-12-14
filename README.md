@@ -9,6 +9,7 @@ Below are the links to each day's GitHub folder where you can find the code, doc
 - [Day 11: Docker](https://github.com/prath-void/devops-sre-challenge/tree/master/11-Docker)
 - [Day 12: Docker Networks](https://github.com/prath-void/devops-sre-challenge/tree/master/12-Docker-Networks)
 - [Day 13: Docker Volumes](https://github.com/prath-void/devops-sre-challenge/tree/master/13-docker-volume)
+- [Day 14: Docker Compose](https://github.com/prath-void/devops-sre-challenge/tree/master/14-docker-compose)
 
 For any questions or further information, feel free to reach out!
 
